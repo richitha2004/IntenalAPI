@@ -1,0 +1,27 @@
+const students=[
+    {
+        id:100,
+        name:'casey',
+        branch:'cse',
+        year:2
+    },
+    {
+        id:101,
+        name:'john',
+        branch:'cse',
+        year:2
+    },
+    {
+        id:102,
+        name:'roy',
+        branch:'cse',
+        year:2
+    },
+    {
+        id:103,
+        name:'Hreck',
+        branch:'cse',
+        year:2
+    }
+];
+module.exports=students;
